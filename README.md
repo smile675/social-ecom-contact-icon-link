@@ -1,16 +1,17 @@
 # social
 
-A new Flutter project.
+Collecting all social, ecom and contact icons.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you want any icon, you can take it. if i missed any icon you can add.
+-Initially i tried icons with svg files but it took very 4-5 seconds to load all icons in one screen.
+-after that i tried with png, now it load much more faster.
+-i am not sure why?
+-maybe the reason is i created all svg icons using adobe illustrator. not sure tho
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot](screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
